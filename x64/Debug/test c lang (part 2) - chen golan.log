@@ -1,0 +1,5 @@
+﻿  test c lang (part 2) - chen golan.c
+C:\Users\behap\Desktop\test c lang (part 2) - chen golan\test c lang (part 2) - chen golan\test c lang (part 2) - chen golan.c(16,35): warning C4047: '=': 'char' differs in levels of indirection from 'void *'
+C:\Users\behap\Desktop\test c lang (part 2) - chen golan\test c lang (part 2) - chen golan\test c lang (part 2) - chen golan.c(35,35): warning C4047: '=': 'char' differs in levels of indirection from 'void *'
+C:\Users\behap\Desktop\test c lang (part 2) - chen golan\test c lang (part 2) - chen golan\test c lang (part 2) - chen golan.c(169,5): warning C4013: 'gets' undefined; assuming extern returning int
+  test c lang (part 2) - chen golan.vcxproj -> C:\Users\behap\Desktop\test c lang (part 2) - chen golan\x64\Debug\test c lang (part 2) - chen golan.exe
